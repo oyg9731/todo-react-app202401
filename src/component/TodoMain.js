@@ -5,7 +5,11 @@ import TodoItem from "./TodoItem";
 
 const TodoMain = () => {
     return (
-        <TodoItem/>
+        <ul className='todo-list'>
+            <TodoItem/>
+            <TodoItem/>
+            <TodoItem/>
+        </ul>
     );
 };
 
