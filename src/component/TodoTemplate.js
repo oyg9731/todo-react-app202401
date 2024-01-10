@@ -1,7 +1,7 @@
 import React from "react";
 import {MdAdd, MdDelete, MdDone} from "react-icons/md";
 
-import './sass/TodoTemplate.scss';
+import './scss/TodoTemplate.scss';
 import TodoHeader from "./TodoHeader";
 import Todonput from "./Todonput";
 import TodoMain from "./TodoMain";

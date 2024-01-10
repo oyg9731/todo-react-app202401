@@ -1,5 +1,5 @@
 import React from 'react';
-import './sass/TodoHeader.scss'
+import './scss/TodoHeader.scss'
 
 const TodoHeader = () => {
     return (

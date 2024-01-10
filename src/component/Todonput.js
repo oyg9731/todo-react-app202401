@@ -2,7 +2,7 @@ import React, {useState} from 'react';
 import {MdAdd} from "react-icons/md";
 import cn from 'classnames'; // class add/remove
 
-import './sass/TodoInput.scss'
+import './scss/TodoInput.scss'
 
 const Todonput = () => {
 
