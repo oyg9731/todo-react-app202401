@@ -29,8 +29,7 @@ const Header = () => {
 
                     <Grid item>
                         <div className='btn-group'>
-                            {/*<a href="/join">회원가입</a>*/}
-                            {/*<Link to='/login'>로그인</Link>*/}
+                            <Link to='/login'>로그인</Link>
                             <Link to='/join'>회원가입</Link>
                         </div>
                     </Grid>
